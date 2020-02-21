@@ -1,6 +1,6 @@
 <?php
 
-echo "<strong>Olá Mundo 1223!!!!</strong>";
-echo "Olá Marcelo Giovanni";
+echo "<strong>Olá Mundo</strong>";
+echo "Olá Fatima";
 
 ?>
