@@ -1,6 +1,5 @@
 <?php
 
-echo "<strong>Olá Mundo</strong>";
-echo "Olá Fatima";
+echo "<strong>Olá Mundo, meu primeiro programa!!!</strong>";
 
 ?>
